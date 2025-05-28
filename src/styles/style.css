@@ -105,3 +105,9 @@ a {
     justify-content: center;
     font-weight: bold;
 }
+.imgmain {
+    height: 65vh;
+    width: 100%;
+    background-image: url(../assets/images/imgmain.webp);
+    background-size: cover;
+}
